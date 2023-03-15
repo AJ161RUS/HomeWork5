@@ -1,0 +1,15 @@
+D:\HomeWork5\Task23\bin\Debug\net7.0\Task23.exe
+D:\HomeWork5\Task23\bin\Debug\net7.0\Task23.deps.json
+D:\HomeWork5\Task23\bin\Debug\net7.0\Task23.runtimeconfig.json
+D:\HomeWork5\Task23\bin\Debug\net7.0\Task23.dll
+D:\HomeWork5\Task23\bin\Debug\net7.0\Task23.pdb
+D:\HomeWork5\Task23\obj\Debug\net7.0\Task23.csproj.AssemblyReference.cache
+D:\HomeWork5\Task23\obj\Debug\net7.0\Task23.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWork5\Task23\obj\Debug\net7.0\Task23.AssemblyInfoInputs.cache
+D:\HomeWork5\Task23\obj\Debug\net7.0\Task23.AssemblyInfo.cs
+D:\HomeWork5\Task23\obj\Debug\net7.0\Task23.csproj.CoreCompileInputs.cache
+D:\HomeWork5\Task23\obj\Debug\net7.0\Task23.dll
+D:\HomeWork5\Task23\obj\Debug\net7.0\refint\Task23.dll
+D:\HomeWork5\Task23\obj\Debug\net7.0\Task23.pdb
+D:\HomeWork5\Task23\obj\Debug\net7.0\Task23.genruntimeconfig.cache
+D:\HomeWork5\Task23\obj\Debug\net7.0\ref\Task23.dll
